@@ -40,4 +40,5 @@
 |  |
 | ------- |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/delta1circuit/LeetCode-Practice/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [2057-count-salary-categories](https://github.com/delta1circuit/LeetCode-Practice/tree/master/2057-count-salary-categories) |
 <!---LeetCode Topics End-->
