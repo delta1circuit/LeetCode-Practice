@@ -34,3 +34,10 @@
 | [1942-primary-department-for-each-employee](https://github.com/delta1circuit/LeetCode-Practice/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/delta1circuit/LeetCode-Practice/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/delta1circuit/LeetCode-Practice/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/delta1circuit/LeetCode-Practice/tree/master/1327-last-person-to-fit-in-the-bus) |
+<!---LeetCode Topics End-->
