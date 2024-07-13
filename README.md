@@ -39,6 +39,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/delta1circuit/LeetCode-Practice/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/delta1circuit/LeetCode-Practice/tree/master/0196-delete-duplicate-emails) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/delta1circuit/LeetCode-Practice/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1670-patients-with-a-condition](https://github.com/delta1circuit/LeetCode-Practice/tree/master/1670-patients-with-a-condition) |
