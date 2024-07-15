@@ -41,6 +41,7 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/delta1circuit/LeetCode-Practice/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/delta1circuit/LeetCode-Practice/tree/master/0196-delete-duplicate-emails) |
+| [0626-exchange-seats](https://github.com/delta1circuit/LeetCode-Practice/tree/master/0626-exchange-seats) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/delta1circuit/LeetCode-Practice/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/delta1circuit/LeetCode-Practice/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/delta1circuit/LeetCode-Practice/tree/master/1625-group-sold-products-by-the-date) |
