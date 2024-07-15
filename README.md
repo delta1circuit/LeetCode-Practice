@@ -44,6 +44,7 @@
 | [0626-exchange-seats](https://github.com/delta1circuit/LeetCode-Practice/tree/master/0626-exchange-seats) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/delta1circuit/LeetCode-Practice/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/delta1circuit/LeetCode-Practice/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1480-movie-rating](https://github.com/delta1circuit/LeetCode-Practice/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/delta1circuit/LeetCode-Practice/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/delta1circuit/LeetCode-Practice/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/delta1circuit/LeetCode-Practice/tree/master/1670-patients-with-a-condition) |
